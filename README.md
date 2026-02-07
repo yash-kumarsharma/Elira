@@ -1,64 +1,58 @@
-# 🌟 Elira: Empowering Women Through Technology 
+<div align="center">
 
+# 🌟 Elira: Empowering Women Through Technology
 
-A web platform focused on enhancing women's **safety** and **financial independence** through accessible tools and resources.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-> Built with **HTML5**, **CSS3 (Tailwind CSS)**, **JavaScript**, and a **Flask (Python)** backend for features like safe route mapping.
+<br>
 
-🔗 **Live Website:** [Elira — Github Pages](https://yash-kumarsharma.github.io/Elira/)
+**Elira** is a comprehensive web platform dedicated to enhancing women's **safety** and **financial independence**. It provides accessible tools for emergency assistance, financial planning, and educational resources in a single, user-friendly interface.
+
+[![Live Demo](https://img.shields.io/badge/demo-online-green?style=for-the-badge&logo=vercel)](https://yash-kumarsharma.github.io/Elira/)
+
+</div>
 
 ---
 
-## 🏆 Recognition
+<div align="center">
 
-🎖️ **Hackathon Winner** – This project was built as part of a hackathon and recognized for its innovation, impact, and execution.
+### 🏆 Recognition
+**Winner - Hackathon Project**
+<br>
+*Recognized for innovation, social impact, and technical execution.*
+
+</div>
 
 ---
 
 ## 🚀 Features
 
-- 🛡️ **Safety Hub** (`index.html`)  
-  Emergency support access, siren activation, voice commands for live location sharing.
+### 🛡️ Safety & Emergency
+* **Safety Hub:** One-click emergency support, loud siren activation, and voice commands.
+* **Emergency Location Alert:** Real-time geolocation sharing via EmailJS and WhatsApp integration.
+* **Safe Routes Map:** Interactive crime heatmaps and "safer route" calculation using **Flask** and **OSRM**.
+* **Consultation Directory:** Connect with verified medical and mental health experts.
 
-- 💰 **Financial Tools** (`financial_home.html`)  
-  Budget planner, insurance comparison, investment calculator.
-
-- 📚 **Investment Courses** (`courses.html`)  
-  Learn investing — beginner to advanced.
-
-- 🤝 **Consultation Directory** (`consult.html`)  
-  Connect with medical and mental health experts.
-
-- 🗺️ **Safe Routes Map** (`safe_routes_map.html`)  
-  Crime heatmaps and “safer route” finder using Flask + OSRM.
-
-- 🚨 **Emergency Location Alert** (`emergency_location.html`)  
-  Real-time geolocation and instant alerts via EmailJS and WhatsApp.
-
-- ⚖️ **Legal & Support** (`legal.html`)  
-  Helplines, cybercrime reporting, and local legal aid.
-
-- 🛍️ **Safety Shop** (`shop.html`)  
-  Self-defense gadgets and wearables.
-
-- 🔐 **User Auth** (`login.html`)  
-  LocalStorage-based login/register (demo only).
-
-- ✍️ **Feedback Form** (`feedback_form.html`)  
-  Collects feedback to improve the platform.
+### 💰 Financial Independence
+* **Financial Tools:** Smart budget planner, insurance comparison, and investment calculators.
+* **Investment Courses:** Curated learning paths from beginner to advanced investing.
+* **Safety Shop:** Marketplace for self-defense gadgets and wearables.
 
 ---
 
 ## 🧰 Tech Stack
 
-| Area        | Technology                         |
-|-------------|-------------------------------------|
-| Frontend    | HTML5, Tailwind CSS, Vanilla JS     |
-| Dynamic UI  | Alpine.js (`consult.html`)          |
-| Maps        | Leaflet.js + OSRM API               |
-| Backend     | Python, Flask, Flask-CORS           |
-| Alerts      | EmailJS, WhatsApp (via links)       |
-| Auth (Demo) | Browser `localStorage`              |
+| Area | Technology |
+| :--- | :--- |
+| **Frontend** | HTML5, Tailwind CSS, JavaScript |
+| **Dynamic UI** | Alpine.js |
+| **Backend** | Python, Flask, Flask-CORS |
+| **Maps & Routing** | Leaflet.js, OSRM API |
+| **Alert Systems** | EmailJS, WhatsApp Web Integration |
 
 ---
 
